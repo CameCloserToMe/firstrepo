@@ -1,3 +1,3 @@
-function hello {
+function goal {
 	alert('alёrt bitch!')
 }
